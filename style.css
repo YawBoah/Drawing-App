@@ -10,7 +10,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #4A98F7;
+  background: #480ca8;
 }
 
 .container{
@@ -24,6 +24,11 @@ body{
 section{
   background: #fff;
   border-radius: 7px;
+}
+
+.title{
+    font-weight: bolder;
+    text-shadow: #000;
 }
 
 .tools-board{
