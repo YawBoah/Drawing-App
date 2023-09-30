@@ -4,6 +4,10 @@
 
 🖌️ **Welcome to the Drawing App**, where you have the canvas as your playground to create stunning artworks, diagrams, or simply doodle to your heart's content. This web-based application provides you with a versatile set of tools to express your creativity, from brushes to shapes, colors, and more!
 
+![Screenshot 2023-09-30 220457](https://github.com/YawBoah/Drawing-App/assets/126890146/95f85239-c8f2-4c2e-adb9-c542138af052)
+
+![Screenshot 2023-09-30 220840](https://github.com/YawBoah/Drawing-App/assets/126890146/1c6c1c4a-cbed-4a66-ac40-15a035b5bb34)
+
 ## ✨ Key Features
 
 🎨 **Multiple Drawing Tools**: Choose from a selection of tools including brushes and erasers, each with customizable sizes to suit your needs.
