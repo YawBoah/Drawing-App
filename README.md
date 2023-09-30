@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1f461627-6fec-40c2-83af-a938ae7758f3/deploy-status)](https://app.netlify.com/sites/letsdrawtogether/deploys)
 # 🎨 Drawing App
 
 ## Unleash Your Creative Imagination with the Drawing App!
