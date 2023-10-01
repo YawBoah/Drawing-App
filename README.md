@@ -50,7 +50,7 @@ Feel free to share your amazing artworks created with the Drawing App on social 
 
 ## 📜 License
 
-This project is licensed under the YawBoah License. For details, check out the [LICENSE](LICENSE) file.
+This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
