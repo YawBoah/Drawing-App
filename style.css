@@ -199,6 +199,10 @@ section{
     padding: 5px 0; /* Add padding to the rows for touch-friendly interactions */
   }
 
+  .option {
+    padding: 8px; /* Increase padding for better touch interactions */
+  }
+
   
 }
 
