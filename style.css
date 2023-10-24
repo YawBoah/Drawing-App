@@ -179,6 +179,10 @@ section{
 
 
 /* Add the following media query for smaller screens */
+
+
+
+
 @media screen and (max-width: 768px) {
   
     body {
