@@ -184,7 +184,12 @@ section{
     background: #0f7dcc; /* Change the background color for smaller screens */
   }
 
-  
+  .container {
+    flex-direction: column; /* Stack sections vertically on smaller screens */
+    align-items: center; /* Center sections vertically on smaller screens */
+  }
+
+ 
 }
 
 
