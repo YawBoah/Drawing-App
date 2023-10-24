@@ -209,7 +209,10 @@ section{
     margin-bottom: 10px; /* Reduce margin between buttons */
   }
 
-  
+  .drawing-board canvas {
+    width: 100%; /* Ensure the canvas takes up the full width */
+    height: auto; /* Allow canvas height to adjust automatically */
+  }
 }
 
 
