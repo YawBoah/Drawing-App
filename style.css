@@ -194,6 +194,11 @@ section{
     padding: 10px; /* Add some padding to the tools board for a comfortable touch */
   }
 
+  .tools-board .row {
+    margin-bottom: 10px; /* Reduce spacing between rows on smaller screens */
+    padding: 5px 0; /* Add padding to the rows for touch-friendly interactions */
+  }
+
   
 }
 
