@@ -178,9 +178,14 @@ section{
 }
 
 
-/* Add the following media query for smaller screens */
+/* Adding the following media query for smaller screens of 480px and 768px */
+@media screen and (max-width: 480px) {
+  body {
+    background: #0f7dcc; /* Change the background color for smaller screens */
+  }
 
-
+  
+}
 
 
 @media screen and (max-width: 768px) {
