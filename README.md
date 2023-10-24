@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1f461627-6fec-40c2-83af-a938ae7758f3/deploy-status)](https://app.netlify.com/sites/letsdrawtogether/deploys)
 # 🎨 Drawing App
 
 ## Unleash Your Creative Imagination with the Drawing App!
@@ -49,7 +50,7 @@ Feel free to share your amazing artworks created with the Drawing App on social 
 
 ## 📜 License
 
-This project is licensed under the YawBoah License. For details, check out the [LICENSE](LICENSE) file.
+This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
