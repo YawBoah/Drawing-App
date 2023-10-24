@@ -203,6 +203,12 @@ section{
     padding: 8px; /* Increase padding for better touch interactions */
   }
 
+  .buttons button {
+    font-size: 1rem; /* Increase font size for better readability on small screens */
+    padding: 12px 0; /* Increase button padding for touch-friendly design */
+    margin-bottom: 10px; /* Reduce margin between buttons */
+  }
+
   
 }
 
